@@ -88,7 +88,12 @@
 </p>
 
 ---
+### 🔄 Dynamic Language Usage
 
+<p align="center">
+  <img src="language_usage.gif" alt="Animated Language Usage Chart" width="400"/>
+</p>
+----
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megha-jawalagi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
