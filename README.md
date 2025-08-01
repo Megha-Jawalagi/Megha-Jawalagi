@@ -52,6 +52,7 @@
   <img width="12" />
   
   <!-- JavaScript -->
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="javascript logo" />
   <img width="12" />
    
