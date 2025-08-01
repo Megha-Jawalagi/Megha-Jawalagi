@@ -13,6 +13,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Megha-Jawalagi&theme=chalk&no-frame=true&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
   </a>
 </p>
+</h1>
 
 
 
