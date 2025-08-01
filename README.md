@@ -67,7 +67,7 @@
 <!-- MySQL -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
   
-  
+  <img src="https://techstack-generator.vercel.app/git-icon.svg" width="65" height="65" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="git logo" />
 </div>
 
