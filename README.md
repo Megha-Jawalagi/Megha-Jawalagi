@@ -59,15 +59,11 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="javascript logo" />
   <img width="12" />
    
-  
-  
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
-  <img width="12" />
-   
   <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="css logo" />
   <img width="12" />
-   
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
+  <img width="12" />
 <!-- MySQL -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
   
