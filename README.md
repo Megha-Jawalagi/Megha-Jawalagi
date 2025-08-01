@@ -76,5 +76,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-jawalagi&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-contributions-progress-bar.vercel.app/api?username=Megha-Jawalagi&bg=0d1117&color=ff69b4&trackColor=44475a&height=20" alt="GitHub Contribution Progress Bar" />
+  <img src="https://progress-bar.dev/714/?scale=1000&width=400&suffix=%20contributions&color=ff69b4&title=GitHub%20Contributions&background=0d1117" alt="GitHub Contributions Progress Bar" />
 </p>
