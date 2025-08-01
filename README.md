@@ -32,10 +32,6 @@
 **Job Portal**  
 <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="25" alt="help" style="vertical-align: middle;" />
 
-### 📫 How to reach me  
-<a href="mailto:jawalagimegham@gmail.com" style="color:#0e75b6; font-weight:bold;">jawalagimegham@gmail.com</a>  
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="25" alt="email" style="vertical-align: middle;" />
-
 ---
 
 <h3>Connect with me</h3>
@@ -95,10 +91,30 @@
 </p>
 
 <style>
-.skill-icon img {
-  transition: transform 0.4s ease;
+@keyframes dance {
+  0%, 100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  25% {
+    transform: translateY(-10px) rotate(-5deg);
+  }
+  50% {
+    transform: translateY(0) rotate(5deg);
+  }
+  75% {
+    transform: translateY(-10px) rotate(-5deg);
+  }
 }
+
+.skill-icon img {
+  animation: dance 3s ease-in-out infinite;
+  display: inline-block;
+  transition: transform 0.3s ease;
+  margin: 0 10px;
+}
+
 .skill-icon img:hover {
-  transform: rotate(10deg) scale(1.2);
+  animation-play-state: paused;
+  transform: scale(1.3) rotate(0deg);
 }
 </style>
