@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi 👋, I'm Megha Jawalagi
-<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" /> -->
 </h1>
 
 <h3 align="center" style="font-weight: normal;">
@@ -40,9 +39,6 @@
   </a>
   <a href="mailto:jawalagimegham@gmail.com" target="_blank" rel="noopener" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/yourtwitterhandle" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
@@ -99,9 +95,8 @@
 </p>
 
 <p align="center" style="margin-top: 25px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=megha-jawalagi&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=megha-jawalagi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
-
 <p align="center" style="margin-top: 25px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-jawalagi&theme=radical" alt="GitHub Streak" />
 </p>
