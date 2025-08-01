@@ -6,7 +6,7 @@
   A passionate frontend developer
 
 </p>
-<p align="center">🏆 GitHub Profile Trophies p>
+<p align="center">🏆 GitHub Profile Trophies </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener">
