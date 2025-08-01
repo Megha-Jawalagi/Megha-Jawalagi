@@ -81,6 +81,6 @@
   <br>
   <br>
 <!--   <img src="https://streak-stats.demolab.com?user=Megha-Jawalagi&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  /> -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Megha-Jawalagi&theme=matrix" alt="GitHub Trophy" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=Megha-Jawalagi&theme=matrix" alt="GitHub Trophy" /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megha-Jawalagi&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
