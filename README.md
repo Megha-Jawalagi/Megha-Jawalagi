@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi 👋, I'm Megha Jawalagi 
+  Hi 👋, I'm Megha Jawalagi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" />
 </h1>
 
 <h3 align="center" style="font-weight: normal;">
-  A passionate frontend developer  
+  A passionate frontend developer
   <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30" alt="coding animation" />
 </h3>
 
@@ -52,27 +52,34 @@
 
 ### Languages and Tools
 
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener" class="skill-icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+<p align="center" style="font-size: 0;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener" style="display:inline-block; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60" style="vertical-align: middle;" />
+    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="20" alt="dancing" style="vertical-align: middle; margin-left: 3px;" />
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener" class="skill-icon">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  <a href="https://git-scm.com/" target="_blank" rel="noopener" style="display:inline-block; margin: 0 12px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60" style="vertical-align: middle;" />
+    <img src="https://media.giphy.com/media/l3vR1YhXmaF3HRvTW/giphy.gif" width="20" alt="dancing" style="vertical-align: middle; margin-left: 3px;" />
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener" class="skill-icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noopener" style="display:inline-block; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60" style="vertical-align: middle;" />
+    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="20" alt="dancing" style="vertical-align: middle; margin-left: 3px;" />
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noopener" class="skill-icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" />
+  <a href="https://www.java.com" target="_blank" rel="noopener" style="display:inline-block; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" style="vertical-align: middle;" />
+    <img src="https://media.giphy.com/media/l3vR1YhXmaF3HRvTW/giphy.gif" width="20" alt="dancing" style="vertical-align: middle; margin-left: 3px;" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" class="skill-icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" style="display:inline-block; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="vertical-align: middle;" />
+    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="20" alt="dancing" style="vertical-align: middle; margin-left: 3px;" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener" class="skill-icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+  <a href="https://www.mysql.com/" target="_blank" rel="noopener" style="display:inline-block; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60" style="vertical-align: middle;" />
+    <img src="https://media.giphy.com/media/l3vR1YhXmaF3HRvTW/giphy.gif" width="20" alt="dancing" style="vertical-align: middle; margin-left: 3px;" />
   </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noopener" class="skill-icon">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50" />
+  <a href="https://www.oracle.com/" target="_blank" rel="noopener" style="display:inline-block; margin: 0 12px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60" style="vertical-align: middle;" />
+    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="20" alt="dancing" style="vertical-align: middle; margin-left: 3px;" />
   </a>
 </p>
 
@@ -82,39 +89,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megha-jawalagi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="center" style="margin-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api?username=megha-jawalagi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-jawalagi&" alt="GitHub Streak" />
+<p align="center" style="margin-top: 25px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-jawalagi&theme=radical" alt="GitHub Streak" />
 </p>
-
-<style>
-@keyframes dance {
-  0%, 100% {
-    transform: translateY(0) rotate(0deg);
-  }
-  25% {
-    transform: translateY(-10px) rotate(-5deg);
-  }
-  50% {
-    transform: translateY(0) rotate(5deg);
-  }
-  75% {
-    transform: translateY(-10px) rotate(-5deg);
-  }
-}
-
-.skill-icon img {
-  animation: dance 3s ease-in-out infinite;
-  display: inline-block;
-  transition: transform 0.3s ease;
-  margin: 0 10px;
-}
-
-.skill-icon img:hover {
-  animation-play-state: paused;
-  transform: scale(1.3) rotate(0deg);
-}
-</style>
