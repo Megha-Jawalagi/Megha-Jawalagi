@@ -20,7 +20,6 @@
 
 ### 🌱 I’m currently learning  
 **Spring Boot**  
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="25" alt="learning" style="vertical-align: middle;" />
 
 ### 🤝 I’m looking for help with  
 **Job Portal**  
