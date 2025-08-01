@@ -49,7 +49,6 @@
 <div align="center">
   <!-- Java -->
    <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65" height="65" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65" alt="java logo" />
   <img width="12" />
   
   <!-- JavaScript -->
