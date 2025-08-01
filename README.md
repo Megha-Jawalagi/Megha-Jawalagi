@@ -2,11 +2,11 @@
   Hi 👋, I'm Megha Jawalagi
 </h1>
 
-<h3 align="center" style="font-weight: normal;">
+<p align="center" style="font-weight: normal;">
   A passionate frontend developer
 
-</h3>
-<h3 align="center">🏆 GitHub Profile Trophies</h3>
+</p>
+<p align="center">🏆 GitHub Profile Trophies p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener">
