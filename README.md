@@ -1,65 +1,51 @@
-<h1 align="center">Hi 👋, I am Megha Jawalagi</h1>
+<h1 align="center">Hi 👋, I'm Megha Jawalagi</h1>
+<h3 align="center">Passionate Software Developer | Backend & Web Enthusiast | Problem Solver</h3>
 
-<table style="width: 100%;">
-  <tr>
-    <td style="vertical-align: top; width: 50%;">
-      <h3>A passionate Software Developer and Tech Enthusiast from India.</h3>
-      <p>
-        I build clean, efficient, and user-friendly software. 
-        Recently developed an Online Course Management System to simplify managing courses, instructors, and students with secure role-based access.
-        I love solving real-world problems with intuitive solutions.
-      </p>
-      <br />
-      <div align="center">
-        <a href="mailto:jawalagimegham@gmail.com" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="40" alt="gmail logo" />
-        </a>
-        <a href="https://linkedin.com/in/megha-m-jawalagi" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="40" alt="linkedin logo" />
-        </a>
-        <a href="https://github.com/LSUDOKO" target="_blank">
-          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="42" height="40" alt="github logo" />
-        </a>
-      </div>
-    </td>
-    <td style="text-align: right; width: 50%;">
-      <img src="https://github.com/MishraShardendu22/MishraShardendu22/raw/main/giphy.gif" alt="Animated GIF" width="300" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:jawalagimegham@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://linkedin.com/in/megha-m-jawalagi" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
+  </a>
+  <a href="https://github.com/LSUDOKO" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  </a>
+</p>
+## 👩‍💻 About Me
+
+I’m Megha Jawalagi, passionate about building clean, efficient, and user-friendly software.  
+I have developed an **Online Course Management System** that simplifies managing courses, instructors, and students with secure role-based access.  
+I enjoy working on backend development, database management, and building responsive web applications.
+
+---
+
+## 🛠️ Skills & Technologies
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" height="65" alt="java logo" />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="html5 logo" />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css3 logo" />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=js" width="65" height="65" alt="javascript logo" />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="65" height="65" alt="mysql logo" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Apache Tomcat" src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
 </div>
-<br />
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LSUDOKO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LSUDOKO&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=6&theme=radical&hide_border=false&order=2" height="175" alt="Top languages" />
-  <br /><br />
-  <img src="https://streak-stats.demolab.com?user=LSUDOKO&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="GitHub streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=LSUDOKO&theme=matrix" alt="GitHub trophies" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LSUDOKO&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="GitHub activity graph" />
+  <p>My GitHub journey has just begun! Stats will grow as I contribute more projects and commits. Stay tuned! 🚀</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=LSUDOKO&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LSUDOKO&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSUDOKO&layout=compact&theme=radical" alt="Top Languages" />
 </div>
+## 📫 Get In Touch
 
-<div align="center">
-  <p align="left" style="color:Green;"><b>Visitor count</b></p>
-  <img src="https://profile-counter.glitch.me/LSUDOKO/count.svg?" />
-</div>
+- 📧 Email: [jawalagimegham@gmail.com](mailto:jawalagimegham@gmail.com)  
+- 🔗 LinkedIn: [megha-m-jawalagi](https://linkedin.com/in/megha-m-jawalagi)  
+- 🐱 GitHub: [LSUDOKO](https://github.com/LSUDOKO)  
 
-<div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" alt="Certification 1" width="200" />
-  <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" alt="Certification 2" width="200" />
-</div>
+---
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34" />
-</div>
+<p align="center">Thanks for visiting my profile! 🚀</p>
