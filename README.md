@@ -40,10 +40,13 @@
 
 <h3>Connect with me</h3>
 
+<h3 align="center">🏆 GitHub Profile Trophies</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/megha-m-jawalagi" target="_blank" rel="noopener" style="margin-right: 15px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener">
+    <img src="https://github-profile-trophy.vercel.app/?username=LSUDOKO&theme=monokai&no-frame=true&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
   </a>
+</p>
   <a href="mailto:jawalagimegham@gmail.com" target="_blank" rel="noopener" style="margin-right: 15px;">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
