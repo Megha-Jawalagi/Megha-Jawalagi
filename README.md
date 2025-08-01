@@ -76,8 +76,8 @@
 ---
 ### 🔄 Dynamic Language Usage
 
-<<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Jawalagi&layout=compact&theme=dark" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Jawalagi&layout=compact&custom_title=Top%20Languages&theme=dark&title_color=ff69b4&text_color=ffc0cb&bg_color=0d1117&border_color=ff69b4" alt="Top Languages" />
 </p>
 ----
 <!-- <p align="center">
