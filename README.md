@@ -70,7 +70,7 @@
   <img width="12" />
   
   <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="git logo" />
+  <img src="https://techstack-generator.vercel.app/git-original.svg" width="65" height="65" alt="git logo" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LSUDOKO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175"  alt="stats graph"  />
