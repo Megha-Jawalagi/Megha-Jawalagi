@@ -2,18 +2,13 @@
   Hi 👋, I'm Megha Jawalagi
 </h1>
 
-<p align="center" style="font-weight: normal;">
-  A passionate frontend developer
-
-</p>
-<p align="center">🏆 GitHub Profile Trophies </p>
+<p align="center">🏆 <strong>GitHub Profile Trophies</strong></p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener">
-    <img src="https://github-profile-trophy.vercel.app/?username=Megha-Jawalagi&theme=chalk&no-frame=true&margin-w=15&margin-h=15&row=2&column=3" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Megha-Jawalagi&theme=juicyfresh&no-frame=true&margin-w=10&margin-h=10&row=1&column=6" alt="GitHub Trophies" />
   </a>
 </p>
-</h1>
 
 
 
