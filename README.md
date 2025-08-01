@@ -77,12 +77,12 @@
 ### 🔄 Dynamic Language Usage
 
 <<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSUDOKO&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megha-Jawalagi&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 ----
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=megha-jawalagi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center" style="margin-top: 25px;">
   <img src="https://github-readme-stats.vercel.app/api?username=megha-jawalagi&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
