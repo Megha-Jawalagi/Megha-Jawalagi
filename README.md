@@ -57,7 +57,7 @@
   <img width="12" />
    
   <!-- HTML -->
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" alt="HTML" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="65" height="65" alt="html logo" />
   <img width="12" />
   
