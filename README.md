@@ -68,9 +68,10 @@
   
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="git logo" />
-</div>
+
  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
   <img width="12" />
+  </div>
 
 ---
 ### 🔄 Dynamic Language Usage
