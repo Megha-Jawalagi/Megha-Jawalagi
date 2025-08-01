@@ -76,16 +76,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-jawalagi&theme=radical" alt="GitHub Streak" />
 </p>
 <div align="center">
-  <p align="left" style:color="Green"><b>Visitor count</b></p>
-  <img src="https://profile-counter.glitch.me/Megha-Jawalagi/count.svg?"  />
-</div>
-<div style="display: flex;" justify-content: center; gap: 20px; >
-  <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" alt="Image 1" width="200">
-  <img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" alt="Image 2" width="200">
-</div>
-<!-- <img src="https://images.credly.com/size/220x220/images/6835309d-5d53-4231-abd7-a3aead632fc0/blob" width="200">
-<img src="https://images.credly.com/size/220x220/images/e99e035b-06c9-4a97-b96e-2cad2756180c/blob" width="200 > -->
-<!-- Profile Views Counter -->
-<div align="center">
-  <img src="https://moe-counter.glitch.me/get/@LSUDOKO?theme=rule34" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Megha-Jawalagi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Megha-Jawalagi&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=18&theme=radical&hide_border=false&order=2" height="175"  alt="languages graph"  />
+  <br>
+  <br>
+  <img src="https://streak-stats.demolab.com?user=Megha-Jawalagi&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Megha-Jawalagi&theme=matrix" alt="GitHub Trophy" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Megha-Jawalagi&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
