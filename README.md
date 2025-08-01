@@ -4,7 +4,7 @@
 
 <h3 align="center" style="font-weight: normal;">
   A passionate frontend developer
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="30" alt="coding animation" />
+
 </h3>
 
 <p align="center">
@@ -62,15 +62,15 @@
   <!-- CSS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="65" height="65" alt="css logo" />
   <img width="12" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
-  <img width="12" />
+   
 <!-- MySQL -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
   
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="git logo" />
 </div>
-
+ <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="github logo"  />
+  <img width="12" />
 
 ---
 ### 🔄 Dynamic Language Usage
