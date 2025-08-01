@@ -72,52 +72,6 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="65" height="65" alt="git logo" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LSUDOKO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175"  alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LSUDOKO&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=18&theme=radical&hide_border=false&order=2" height="175"  alt="languages graph"  />
-  <br>
-  <br>
-  <img src="https://streak-stats.demolab.com?user=LSUDOKO&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="175" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=LSUDOKO&theme=matrix" alt="GitHub Trophy" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LSUDOKO&radius=16&theme=nightowl&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
-</div>
-
-<p align="center">
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/>
-    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="30" alt="CSS dancing"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
-    <img src="https://media.giphy.com/media/l3vR1YhXmaF3HRvTW/giphy.gif" width="30" alt="Git dancing"/>
-  </a>
-
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/>
-    <img src="https://media.giphy.com/media/xTiTnwL3XzLs0XjXGM/giphy.gif" width="30" alt="HTML dancing"/>
-  </a>
-
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="30" alt="Java dancing"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-    <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" width="30" alt="JS dancing"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/>
-    <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59Y/giphy.gif" width="30" alt="MySQL dancing"/>
-  </a>
-
-  <a href="https://www.oracle.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
-    <img src="https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif" width="30" alt="Oracle dancing"/>
-  </a>
-</p>
 
 ---
 ### 🔄 Dynamic Language Usage
