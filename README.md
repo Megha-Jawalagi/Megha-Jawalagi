@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi 👋, I'm Megha Jawalagi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" />
+<!--   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" /> -->
 </h1>
 
 <h3 align="center" style="font-weight: normal;">
@@ -22,7 +22,6 @@
 
 ### 🔭 I’m currently working on  
 **Online Course Management System**  
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="25" alt="working" style="vertical-align: middle;" />
 
 ### 🌱 I’m currently learning  
 **Spring Boot**  
@@ -30,7 +29,6 @@
 
 ### 🤝 I’m looking for help with  
 **Job Portal**  
-<img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="25" alt="help" style="vertical-align: middle;" />
 
 ---
 
