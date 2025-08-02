@@ -1,9 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm Megha Jawalagi
 </h1>
-<p>I'm Megha M Jawalagi, a passionate Full-Stack Developer, Tech Enthusiast, and problem solver with a strong interest in building user-focused web applications.
+<h6>I'm Megha M Jawalagi, a passionate Full-Stack Developer, Tech Enthusiast, and problem solver with a strong interest in building user-focused web applications.
 
-                                     🎓 Completed B.Tech in Computer Science from Sharnbasava University</p>
+                                     🎓 Completed B.Tech in Computer Science from Sharnbasava University</h6>
 
 <p align="center">🏆 <strong>GitHub Profile Trophies</strong></p>
 
