@@ -79,7 +79,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=megha-jawalagi&theme=radical" alt="GitHub Streak" />
 </p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Megha-Jawalagi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175"  alt="stats graph"  />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Megha-Jawalagi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="175"  alt="stats graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Megha-Jawalagi&locale=en&hide_title=false&layout=compact&card_width=650&langs_count=18&theme=radical&hide_border=false&order=2" height="175"  alt="languages graph"  />
   <br>
   <br>
