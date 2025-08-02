@@ -3,7 +3,7 @@
 </h1>
 <p></p>I'm Megha M Jawalagi, a passionate Full-Stack Developer, Tech Enthusiast, and problem solver with a strong interest in building user-focused web applications.
 
-🎓 Completed B.Tech in Computer Science from Sharnbasava University</p>
+                                      🎓 Completed B.Tech in Computer Science from Sharnbasava University</p>
 
 <p align="center">🏆 <strong>GitHub Profile Trophies</strong></p>
 
